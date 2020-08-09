@@ -1,0 +1,9 @@
+.footer {
+    width:98%;
+    background-color: rgb(21, 187, 150);
+    height:60px;
+    margin: 0 auto;
+    position:relative;
+    top:330px;
+    box-shadow: 10px 10px 100px rgb(21, 187, 150) ;
+    }

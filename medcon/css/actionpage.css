@@ -1,0 +1,18 @@
+.table{
+    
+
+}
+.tab{
+    text-align: center;
+    background-color: aqua;
+    width: 60%;
+    height: 100%;
+    margin-top: 10%;
+    margin-left: 20%;
+    padding: 20px 20px;
+    border-style: double;
+    border-width: 1px;
+    border-color: crimson;
+    
+
+}
